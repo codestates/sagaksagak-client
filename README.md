@@ -10,7 +10,9 @@
 
 ### **내 방에서도 외롭지 않은 공부를 이어가세요.**
 
-[사각사각](https://sagaksagak.site/)</br></br></br></br>
+[사각사각 배포링크](https://sagaksagak.site/)</br>
+[사각사각 GitHubClient](https://github.com/codestates/sagaksagak-client/)</br>
+[사각사각 GitHubServer](https://github.com/codestates/sagaksagak-server/)</br></br></br>
 
 # **🛠 Tech stack**
 </br></br>
